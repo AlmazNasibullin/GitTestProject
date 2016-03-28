@@ -1,4 +1,4 @@
 Procedure proc4()
-    d = 2;
-    c = 13;
+    d = 20;
+    c = 20;
 EndProcedure
