@@ -1,0 +1,7 @@
+diff --git a/EGitTestProject/src/Catalogs/Guide/ObjectModule.bsl b/EGitTestProject/src/Catalogs/Guide/ObjectModule.bsl
+index cef433a..28bb608 100644
+--- a/EGitTestProject/src/Catalogs/Guide/ObjectModule.bsl
++++ b/EGitTestProject/src/Catalogs/Guide/ObjectModule.bsl
+@@ -1,2 +1,1 @@
+ Procedure proc4()
+-    d = 0;
