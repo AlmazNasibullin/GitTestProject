@@ -1,2 +1,4 @@
 *.bsl diff=bsldiffprogramm
+*.xml diff=xmldiffprogramm
+
 *.bsl merge=bslmergeprogramm
