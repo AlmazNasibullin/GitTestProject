@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE recipe>
-<recipe name="хлеб" preptime="5min" cooktime="181min">
+<recipe name="one" preptime="5min" cooktime="182min">
    <title>Сладкий хлеб</title>
    <composition>
-      <ingredient amount="3" unit="стакан">Мука</ingredient>
-      <ingredient amount="0.25" unit="грамм">Дрожжи</ingredient>
-      <ingredient amount="1.5" unit="стакан">Вода</ingredient>
+      <ingredient amount="3" unit="one">Мука</ingredient>
+      <ingredient amount="0.25" unit="two">Дрожжи</ingredient>
+      <ingredient amount="1.5" unit="three">Вода</ingredient>
    </composition>
    <instructions>
-     <step>Смешать все ингредиенты и тщательно замесить.</step>
+     <step>Mix.</step>
      <step>
-        Закрыть тканью и оставить на один час в тёплом помещении. 
+        Garage.
      </step>
      <!-- 
         <step>
-           Почитать вчерашнюю газету. 
+           reading. 
         </step>
-         - это сомнительный шаг...
+         - matching...
       -->
      <step>
-        Замесить ещё раз, положить на противень и поставить в духовку. 
+        Do something.
      </step>
    </instructions>
 </recipe>
