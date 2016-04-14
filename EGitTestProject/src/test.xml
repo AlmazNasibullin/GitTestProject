@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE recipe>
-<recipe name="one" preptime="5min" cooktime="182min">
-   <title>Сладкий хлеб</title>
+<recipe name="one" preptime="5min" cooktime="180min">
+   <title>Sweet</title>
    <composition>
-      <ingredient amount="3" unit="one">Мука</ingredient>
-      <ingredient amount="0.25" unit="two">Дрожжи</ingredient>
-      <ingredient amount="1.5" unit="three">Вода</ingredient>
+      <ingredient amount="3" unit="one">Water</ingredient>
+      <ingredient amount="0.25" unit="two">Soap</ingredient>
+      <ingredient amount="1.5" unit="three">Salt</ingredient>
    </composition>
    <instructions>
      <step>Mix.</step>
