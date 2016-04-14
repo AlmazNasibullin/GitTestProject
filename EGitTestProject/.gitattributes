@@ -1,4 +1,2 @@
 *.bsl diff=bsldiffprogramm
 *.bsl merge=bslmergeprogramm
-
-#*.mdo diff=mdodiffprogramm
