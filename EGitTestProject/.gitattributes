@@ -1,4 +1,9 @@
+# diff tool
 *.bsl diff=bsldiffprogramm
+*.mdo diff=mdodiffprogramm
 *.xml diff=xmldiffprogramm
 
+# merge tool
 *.bsl merge=bslmergeprogramm
+*.mdo merge=mdomergeprogramm
+*.xml merge=xmlmergeprogramm
