@@ -4,5 +4,4 @@ Procedure proc4()
     c = 3;
     f = -100;
     e = 3;
-    b = 2;
 EndProcedure
