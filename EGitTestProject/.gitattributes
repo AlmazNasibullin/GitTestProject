@@ -4,6 +4,6 @@
 *.xml diff=xmldiffprogramm
 
 # merge tool
-*.bsl merge=bslmergeprogramm
+#*.bsl merge=bslmergeprogramm
 *.mdo merge=mdomergeprogramm
 *.xml merge=xmlmergeprogramm
