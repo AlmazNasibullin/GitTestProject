@@ -1,5 +1,5 @@
 Procedure proc4()
     a = 1;
     b = 2;
-    c = 3;
+    c = 4;
 EndProcedure
