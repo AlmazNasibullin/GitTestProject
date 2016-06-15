@@ -1,5 +1,5 @@
 Procedure p1(Param = 2)
-    a1 = 12;
+    a1 = 11;
     b = 12;
     a1 = a1 / b;
 EndProcedure
@@ -25,7 +25,7 @@ Function p4(e1)
     ElsIf e1 < 10 then
         f = 5;
     Else
-        f = 15;
+        f = 16;
     EndIf;
     return f;
 EndFunction
