@@ -5,7 +5,7 @@ Procedure p1(Param = 2)
 EndProcedure
 
 Function p2()
-    c = 4;
+    c = 5;
     
 EndFunction
 
