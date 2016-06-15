@@ -1,6 +1,6 @@
 Procedure p1(Param = 2)
     a1 = 11;
-    b = 12;
+    b = 13;
     a1 = a1 / b;
 EndProcedure
 
