@@ -29,5 +29,3 @@ Function p4(e1)
     EndIf;
     return f;
 EndFunction
-Status API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privac
