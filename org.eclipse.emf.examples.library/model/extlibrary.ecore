@@ -38,7 +38,7 @@
       eSuperTypes="#//Addressable">
     <eStructuralFeatures
         xsi:type="ecore:EAttribute"
-        name="name"
+        name="name2"
         eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
     <eStructuralFeatures
         xsi:type="ecore:EReference"
